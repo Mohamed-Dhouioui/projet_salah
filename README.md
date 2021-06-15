@@ -2,9 +2,13 @@
 This project has two parts:
 - A drowziness detection model (it detects via webcam if the driver's eyes are open closed or semi-closed)
 - Two sensors, a dosimeter to measure alcohol in his breath and an accelerometer to predict accidents
-There is also a web dashboard to display detection levels.
 ****  
 # Setup
+
+**clone this repository (or download it):**
+
+`git clone https://github.com/Mohamed-Dhouioui/projet_salah.git`
+
 **Install required libraries via:**
 - `pip install -r requirements.txt` on windows
 - `pip3 install -r requirements.txt` on Raspberry pi
