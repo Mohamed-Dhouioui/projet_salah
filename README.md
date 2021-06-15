@@ -22,10 +22,7 @@ This project has two parts:
 ****
 # Modules
 
-- **dashbaord:** contains the web interface, run via:
-`python app.py`
 - **drowsiness:** contains the webcam eyes detector, run via
 `python detector_test.py`
 - **images:** contains images for the sensors used in this project
 - **sensors:** contains the modules for both sensors
-- **web_interface:** contains a web ui template that can be used with futur projects
