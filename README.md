@@ -24,6 +24,7 @@ This project has two parts:
 
 - **drowsiness:** contains the webcam eyes detector, run via
 `cd drowsiness`
+
 `python3 detector_test.py`
 - **images:** contains images for the sensors used in this project
 - **sensors:** contains the modules for both sensors
